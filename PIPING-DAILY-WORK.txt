@@ -1,0 +1,21 @@
+
+Activities: DATE: 28-10-2024
+> Did an 'Operational Excellent (OE) Momment'
+> Topic: Purchasing Power in Nigeria
+> Time: 6:30am - 6:40am
+
+Summary of OE Moment talk:
+Maintaining purchasing power in Nigeria requires smart financial management, a focus on essentials, 
+and awareness of economic factors that impact daily spending. By prioritizing needs, budgeting, and 
+making informed decisions, individuals and families can maximize their resources despite economic challenges.
+
+Project Work:
+Project Title: Meren Water Injection Platform, North Offshore Platform, Nigeria.
+Responsibility: Generate piping deliverables for Construction Group in compliance with company Engineering 
+		Design Standard & Specificstion.
+Hands-on Tools: MS-Word Suit, AutoCAD, Aveva E3D, Naviswork, Pipe-Data Pro, Vendor Drawings etc
+Rerefence Docs: Project P&ID, Work Order/Vision Work Request, Engineering Design Priority List, MTO Register, Drawing Register.
+
+Activities: Week1 (9th Oct. 2024 - 16th Oct, 2024)
+> Modelled water injection piping system inline with project PID and VWR red line mark-up.
+  
