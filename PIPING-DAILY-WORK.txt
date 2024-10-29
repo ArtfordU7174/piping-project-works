@@ -11,11 +11,16 @@ making informed decisions, individuals and families can maximize their resources
 
 Project Work:
 Project Title: Meren Water Injection Platform, North Offshore Platform, Nigeria.
-Responsibility: Generate piping deliverables for Construction Group in compliance with company Engineering 
-		Design Standard & Specificstion.
+Responsibility: Generate piping deliverables for Construction Group in compliance with company Engineering Design Standard & Specificstion.
 Hands-on Tools: MS-Word Suit, AutoCAD, Aveva E3D, Naviswork, Pipe-Data Pro, Vendor Drawings etc
 Rerefence Docs: Project P&ID, Work Order/Vision Work Request, Engineering Design Priority List, MTO Register, Drawing Register.
 
 Activities: Week1 (9th Oct. 2024 - 16th Oct, 2024)
 > Modelled water injection piping system inline with project PID and VWR red line mark-up.
+
+Activities: Week2 (17th Oct. 2024 - 24th Oct, 2024)
+> Reviewed water injection piping model with engineering team lead and construction group personnel.
+> Generated piping isometrics EP20483-01, EP20483-02, EP20483-03, EP20483-04,
+  EP20483-05
+
   
