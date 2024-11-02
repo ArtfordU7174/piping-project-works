@@ -15,16 +15,27 @@ Responsibility: Generate piping deliverables for Construction Group in complianc
 Hands-on Tools: MS-Word Suit, AutoCAD, Aveva E3D, Naviswork, Pipe-Data Pro, Vendor Drawings etc
 Rerefence Docs: Project P&ID, Work Order/Vision Work Request, Engineering Design Priority List, MTO Register, Drawing Register.
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Activities: Week1 (9th Oct. 2024 - 16th Oct, 2024)
+
 > Modelled water injection piping system inline with project PID and VWR red line mark-up.
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Activities: Week2 (17th Oct. 2024 - 24th Oct, 2024)
+
 > Reviewed water injection piping model with engineering team lead and construction group personnel.
 > Generated piping isometrics EP20483-01, EP20483-02, EP20483-03, EP20483-04,
 EP20483-05
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Activities: Week3 (25th Oct. 2024 - 31st Oct, 2024)
+
 > Generated piping isometrics EP20483-05, EP20483-06, EP20483-07, EP20483-08, EP20483-09, EP20483-10, EP20483-11, EP20483-12,
 > EP20483-07, EP20483-14, EP20483-15, EP20483-16, EP20483-17, EP20483-18, EP20483-19,
 
-  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Activities: Week4 (1st Nov. 2024 - 6th Nov, 2024)
+
+> Generated Piping General Arrangement (Piping GA), WO......-100, Detailed Piping Material Take Off (Piping MTO),MTO-....-Rev0
+>  
+
